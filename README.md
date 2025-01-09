@@ -96,3 +96,12 @@
  <p> Aquí encontrarán mis proyectos relacionados al testing.</p>
 </div> 
 -->
+<div align = center>
+<img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk3b3AwcDRmcmFwcGZuNHI1aTJobXE4dWw4cTN1NTAyc3hlNGtnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y068vPOVgGoBAADOmS/giphy.gif">
+ <h3>CONTACT ME</h3>
+ <a href="https://www.linkedin.com/in/cynthia-rose-rodriguez-duarte/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> <a href="mailto:cynthiar.job@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
