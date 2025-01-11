@@ -3,7 +3,7 @@
 </div>
 <table align = center
  <tr>
- <td> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NqYzIyZnVqMjcwcHk0bDZrMXd5ZmlvcWttMHExczNuNzF2MGh5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif"></td>
+ <td> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NqYzIyZnVqMjcwcHk0bDZrMXd5ZmlvcWttMHExczNuNzF2MGh5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width = 300px></td>
   <td><a href="https://www.linkedin.com/in/cynthia-rose-rodriguez-duarte/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
