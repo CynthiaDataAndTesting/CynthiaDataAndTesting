@@ -55,7 +55,7 @@
 
 <br>
 
-<h2>✌️ Mis dos lados de la vida</h2>
+<h2><img src = "https://media0.giphy.com/media/VJAtOCJks1aQoIiPIb/giphy.gif?cid=6c09b952gpczes7u9wc8cytvm0xgnkmdqriz9etr15rpqpf1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 60px> Mis dos lados de la vida</h2>
 <div>
 <h3>►	►	►	 Repositorio DATA</h3>
  <p> Aquí encontrarán todos mis trabajos relacionados con los datos. Desde procesos ETL, hasta dashboards completos.</p>
