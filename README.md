@@ -110,12 +110,11 @@
 
 <br>
 
-<div style = "display : flex;">
-<img src = "https://media4.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif?cid=6c09b952f34qbw4yqr0jlm1dsfmwabrtzrfof6d8e1l0ajiy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 100px>
+<div align = center>
+<img src = "https://media4.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif?cid=6c09b952f34qbw4yqr0jlm1dsfmwabrtzrfof6d8e1l0ajiy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 200px>
  <a href="https://www.linkedin.com/in/cynthia-rose-rodriguez-duarte/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
-<br>
 <a href="mailto:cynthiar.job@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
