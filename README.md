@@ -111,8 +111,7 @@
 <br>
 
 <div align = center>
-<img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk3b3AwcDRmcmFwcGZuNHI1aTJobXE4dWw4cTN1NTAyc3hlNGtnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y068vPOVgGoBAADOmS/giphy.gif">
- <h3>CONTACT ME</h3>
+<img src = "https://media4.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif?cid=6c09b952f34qbw4yqr0jlm1dsfmwabrtzrfof6d8e1l0ajiy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
  <a href="https://www.linkedin.com/in/cynthia-rose-rodriguez-duarte/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> <a href="mailto:cynthiar.job@gmail.com">
