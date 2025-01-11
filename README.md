@@ -101,9 +101,9 @@
    <th><strong>¡Ve a verlo!</strong></th>
   </tr>
   <tr>
-   <td>Website Veterinaria Guay Guau</td>
+   <td>Website Veterinaria Guau Guau</td>
    <td>Testeo de sitio web de la empresa ficticia Veterinaria Guau Guau.Se trata del proyecto de egreso que realicé durante mi formación de testing.</td>
-   <td><a href = ""><img alt="Static Badge" src="https://img.shields.io/badge/%C2%A1Vamos!%20%20-%20gray?style=for-the-badge&logo=github"></a></td>
+   <td><a href = "https://github.com/CynthiaDataAndTesting/Testing"><img alt="Static Badge" src="https://img.shields.io/badge/%C2%A1Vamos!%20%20-%20gray?style=for-the-badge&logo=github"></a></td>
 </table>
 <a href="https://github.com/CynthiaDataAndTesting/Testing"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&width=435&lines=Ver+m%C3%A1s+%E2%86%92" alt="Typing SVG" /></a>
 </div>
