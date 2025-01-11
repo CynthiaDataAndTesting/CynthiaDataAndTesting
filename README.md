@@ -121,6 +121,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width= 100px>
   </a> 
 <br>
+<div align = right>
 <img src = "https://media4.giphy.com/media/m9vXxgejKLDR8ntP5V/giphy.gif?cid=6c09b952d789dyzrxhrmbqq79ki7gx8g5ijgk2kb3fmsh75c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 200px>
-
+</div>
 </div>
