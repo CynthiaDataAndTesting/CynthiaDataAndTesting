@@ -108,6 +108,8 @@
 <a href="https://github.com/CynthiaDataAndTesting/Testing"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&width=435&lines=Ver+m%C3%A1s+%E2%86%92" alt="Typing SVG" /></a>
 </div>
 
+<br>
+
 <div align = center>
 <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTk3b3AwcDRmcmFwcGZuNHI1aTJobXE4dWw4cTN1NTAyc3hlNGtnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y068vPOVgGoBAADOmS/giphy.gif">
  <h3>CONTACT ME</h3>
