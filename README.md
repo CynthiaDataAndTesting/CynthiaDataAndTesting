@@ -118,9 +118,9 @@
   </a>
 <br>
 <br>
+<img src = "https://media3.giphy.com/media/1dLPYsUWQHOTxoA3KG/giphy.gif?cid=6c09b952ldi7fxl30eg326gvtafo5q7rkwg27idjkm7qh5md&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 150px>
+<br>
  <a href="https://www.linkedin.com/in/cynthia-rose-rodriguez-duarte/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width= 100px>
   </a> 
-<br>
-<img src = "https://media4.giphy.com/media/m9vXxgejKLDR8ntP5V/giphy.gif?cid=6c09b952d789dyzrxhrmbqq79ki7gx8g5ijgk2kb3fmsh75c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 150px padding-right = 200px>
 </div>
