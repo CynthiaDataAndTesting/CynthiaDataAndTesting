@@ -37,7 +37,7 @@
 
 <br>
 
-<h2><img src = "https://media0.giphy.com/media/bnAbkYWwizZ9Ykp7FM/giphy.gif?cid=6c09b952m2o67751my0gj4r4v5wj6gflzlnmatzzl242f10z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> Mis armas de batalla:</h2>
+<h2><img src = "https://media0.giphy.com/media/bnAbkYWwizZ9Ykp7FM/giphy.gif?cid=6c09b952m2o67751my0gj4r4v5wj6gflzlnmatzzl242f10z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 40px> Mis armas de batalla:</h2>
 <div>
  <img alt="Static Badge" src="https://img.shields.io/badge/Python%20-%20black?style=for-the-badge&logo=python&logoColor=%233776AB"> <img alt="Static Badge" src="https://img.shields.io/badge/R%20-%20%23276DC3?style=for-the-badge&logo=R&logoColor=White"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas%20-%20%23150458?style=for-the-badge&logo=pandas&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/NumPy%20-%20%23013243?style=for-the-badge&logo=NumPy&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/MySQL%20-%20black?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/RStudio%20-%20%2375AADB?style=for-the-badge&logo=RStudio%20IDE&logoColor=white&logoSize=auto">
 
