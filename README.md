@@ -24,7 +24,7 @@
   
 <br>
 
-<h2>👸 Sobre mí:</h2>
+<h2><img src = "https://media4.giphy.com/media/gFEOucW4mOqsXzB2Gf/giphy.gif?cid=6c09b952jyr7uquufyqr2hsea12u6aapz6p10ii2pji5gs9p&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 60px> Sobre mí:</h2>
 <p>
  Egresada del bachillerato tecnológico en Administración, me di cuenta que la tecnología y los datos eran mi amor escondido así que me encuentro cursando la Licenciatura en Estadística en la Universidad de la República en Uruguay.
  Siguiendo mi pasión me formé como Data Analyst, y además, como Tester de Software. 
