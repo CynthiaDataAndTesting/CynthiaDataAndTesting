@@ -112,7 +112,6 @@
 
 <div align = center>
 <img src = "https://media4.giphy.com/media/aFN9DbzlT3leXW0zt8/giphy.gif?cid=6c09b952f34qbw4yqr0jlm1dsfmwabrtzrfof6d8e1l0ajiy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 200px>
-<br>
 <img src = "https://media3.giphy.com/media/pZCJ9T7HMdQ5jj8Lr5/giphy.gif?cid=6c09b952h2u1thci5jhptmrzbvmakz1i0k71qh96hodj7p98&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 70px>
 <br>
  <a href="https://www.linkedin.com/in/cynthia-rose-rodriguez-duarte/">
