@@ -5,19 +5,19 @@
  <tr>
  <td> <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NqYzIyZnVqMjcwcHk0bDZrMXd5ZmlvcWttMHExczNuNzF2MGh5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width = 300px></td>
   <td><a href="https://www.linkedin.com/in/cynthia-rose-rodriguez-duarte/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width = 100px>
   </a>
  <br>
    <a href="mailto:cynthiar.job@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"width = 100px>
   </a>
  <br>
  <a href = "https://cynthiadataandtesting.github.io/resume2.html">
-<img alt="Static Badge" src="https://img.shields.io/badge/RESUME%20-%20orange?style=for-the-badge&logo=Read.cv">
+<img alt="Static Badge" src="https://img.shields.io/badge/RESUME%20-%20orange?style=for-the-badge&logo=Read.cv"width = 100px>
 </a>
  <br>
 <a href = "https://cynthiadataandtesting.github.io/index.html">
-<img alt="Static Badge" src="https://img.shields.io/badge/MY_WEBSITE%20-%20darkgreen?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/MY_WEBSITE%20-%20darkgreen?style=for-the-badge" width = 100px>
 </a></td>
  </tr>
 </table>
