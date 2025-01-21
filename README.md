@@ -38,17 +38,17 @@
 <br>
 
 <h2><img src = "https://media0.giphy.com/media/bnAbkYWwizZ9Ykp7FM/giphy.gif?cid=6c09b952m2o67751my0gj4r4v5wj6gflzlnmatzzl242f10z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 60px> Mis armas de batalla:</h2>
-<div>
+<div align = center>
  <img alt="Static Badge" src="https://img.shields.io/badge/Python%20-%20black?style=for-the-badge&logo=python&logoColor=%233776AB"> <img alt="Static Badge" src="https://img.shields.io/badge/R%20-%20%23276DC3?style=for-the-badge&logo=R&logoColor=White"> <img alt="Static Badge" src="https://img.shields.io/badge/Pandas%20-%20%23150458?style=for-the-badge&logo=pandas&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/NumPy%20-%20%23013243?style=for-the-badge&logo=NumPy&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/MySQL%20-%20black?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/RStudio%20-%20%2375AADB?style=for-the-badge&logo=RStudio%20IDE&logoColor=white&logoSize=auto">
 
 </div>
-<div>
+<div align = center>
 <img alt="Static Badge" src="https://img.shields.io/badge/Github%20-%20black?style=for-the-badge&logo=Github&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/JIRA%20-%20%230052CC?style=for-the-badge&logo=Jira%20Software&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Trello%20-%20black?style=for-the-badge&logo=Trello&logoColor=%230052CC&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/ClickUp%20-%20%237B68EE?style=for-the-badge&logo=ClickUp&logoColor=white&logoSize=auto">
 </div>
-<div>
+<div align = center>
  <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Sheet%20-%20black?style=for-the-badge&logo=Google%20Sheets&logoColor=%2334A853&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Excel%20-%20darkgreen?style=for-the-badge&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%93%88%20Power%20BI%20-%20black?style=for-the-badge&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Looker%20Studio%20-%20%23669DF6?style=for-the-badge&logo=Google%20Data%20Studio&logoColor=white&logoSize=auto">
 </div>
-<div>
+<div align = center>
  <img alt="Static Badge" src="https://img.shields.io/badge/Postman%20-%20%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20-%20darkblue?style=for-the-badge&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap%20-%20%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5%20-%20%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%20%23663399?style=for-the-badge&logo=CSS&logoColor=white&logoSize=auto">
 </div>
