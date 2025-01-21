@@ -56,9 +56,11 @@
 <br>
 
 <h2><img src = "https://media0.giphy.com/media/VJAtOCJks1aQoIiPIb/giphy.gif?cid=6c09b952gpczes7u9wc8cytvm0xgnkmdqriz9etr15rpqpf1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width = 60px> Mis dos lados de la vida</h2>
+<br>
 <div>
+ <div align = center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=06358A&background=E4E2DD&center=true&vCenter=true&width=1000&lines=Repositorio+Data" alt="Typing SVG" /></a>
- <p> Aquí encontrarán todos mis trabajos relacionados con los datos. Desde procesos ETL, hasta dashboards completos.</p>
+ </div>
  <table>
   <tr>
    <th><strong>Proyecto</strong></th>
@@ -92,8 +94,9 @@
 <br>
 
 <div>
+ <div align = center>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=06358A&background=E4E2DD&center=true&vCenter=true&width=1000&lines=Repositorio+Testing" alt="Typing SVG" /></a>
- <p> Aquí encontrarán mis proyectos relacionados al testing.</p>
+ </div>
 <table>
   <tr>
    <th><strong>Proyecto</strong></th>
